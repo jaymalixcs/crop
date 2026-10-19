@@ -1,0 +1,255 @@
+[
+  {
+    "crop": "Tomato",
+    "condition": "Tomato Early Blight",
+    "description": "Early blight is a common fungal disease of tomatoes caused by Alternaria solani. It primarily affects leaves, stems, and fruit.",
+    "general_management": [
+      "Prune lower leaves to improve air circulation.",
+      "Avoid overhead watering to keep foliage dry.",
+      "Remove and destroy infected plant debris at the end of the season."
+    ],
+    "prevention": [
+      "Practice crop rotation (avoid planting tomatoes or related crops in the same spot for 2-3 years).",
+      "Use disease-resistant varieties if available.",
+      "Apply mulch to prevent soil-borne spores from splashing onto lower leaves."
+    ],
+    "monitoring": [
+      "Check lower leaves regularly for brown spots with concentric rings."
+    ],
+    "expert_verification": true
+  },
+  {
+    "crop": "Tomato",
+    "condition": "Tomato Late Blight",
+    "description": "Late blight is a highly destructive fungal disease caused by Phytophthora infestans. It can destroy entire plants rapidly under cool, wet conditions.",
+    "general_management": [
+      "Remove and destroy infected plants immediately to prevent spread.",
+      "Do not compost infected material."
+    ],
+    "prevention": [
+      "Ensure good air circulation and avoid overhead watering.",
+      "Plant resistant varieties where late blight is common."
+    ],
+    "monitoring": [
+      "Inspect plants frequently during cool, wet weather for large, dark, water-soaked lesions."
+    ],
+    "expert_verification": true
+  },
+  {
+    "crop": "Tomato",
+    "condition": "Tomato Healthy",
+    "description": "No known disease pattern detected. The plant appears healthy based on the visual patterns analyzed.",
+    "general_management": [
+      "Continue standard care practices.",
+      "Maintain adequate watering and fertilization."
+    ],
+    "prevention": [
+      "Maintain good field sanitation and crop rotation to prevent future issues."
+    ],
+    "monitoring": [
+      "Routinely inspect plants for early signs of pests or disease."
+    ],
+    "expert_verification": false
+  },
+  {
+    "crop": "Potato",
+    "condition": "Potato Early Blight",
+    "description": "Early blight of potato is a fungal disease caused by Alternaria solani, similar to early blight on tomatoes.",
+    "general_management": [
+      "Ensure adequate nutrition, especially nitrogen, to help plants resist the disease.",
+      "Remove infected debris after harvest."
+    ],
+    "prevention": [
+      "Use certified disease-free seed potatoes.",
+      "Rotate crops away from the nightshade family."
+    ],
+    "monitoring": [
+      "Look for dark, target-like spots on older leaves."
+    ],
+    "expert_verification": true
+  },
+  {
+    "crop": "Potato",
+    "condition": "Potato Late Blight",
+    "description": "Late blight is a severe disease of potatoes caused by Phytophthora infestans.",
+    "general_management": [
+      "Infected plants should be removed and destroyed.",
+      "Harvest tubers only after vines are completely dead to prevent tuber infection."
+    ],
+    "prevention": [
+      "Plant certified seed and use resistant varieties.",
+      "Ensure proper hilling to protect tubers."
+    ],
+    "monitoring": [
+      "Watch for rapidly spreading dark lesions on leaves and stems during wet weather."
+    ],
+    "expert_verification": true
+  },
+  {
+    "crop": "Potato",
+    "condition": "Potato Healthy",
+    "description": "No known disease pattern detected. The plant appears healthy.",
+    "general_management": [
+      "Continue standard potato cultivation practices."
+    ],
+    "prevention": [
+      "Maintain good soil health and rotation."
+    ],
+    "monitoring": [
+      "Regularly check for pests like the Colorado potato beetle and signs of blight."
+    ],
+    "expert_verification": false
+  },
+  {
+    "crop": "Pepper",
+    "condition": "Pepper Bacterial Spot",
+    "description": "Bacterial spot is a common disease of peppers caused by Xanthomonas campestris pv. vesicatoria.",
+    "general_management": [
+      "Avoid working in the field when plants are wet to prevent spreading the bacteria.",
+      "Remove heavily infected plant parts."
+    ],
+    "prevention": [
+      "Use disease-free seed and transplants.",
+      "Practice crop rotation (at least 2 years without peppers or tomatoes)."
+    ],
+    "monitoring": [
+      "Look for small, water-soaked spots that turn dark on leaves."
+    ],
+    "expert_verification": true
+  },
+  {
+    "crop": "Pepper",
+    "condition": "Pepper Healthy",
+    "description": "No known disease pattern detected. The plant appears healthy.",
+    "general_management": [
+      "Continue regular care."
+    ],
+    "prevention": [
+      "Maintain standard agricultural practices."
+    ],
+    "monitoring": [
+      "Check routinely for aphids and signs of bacterial spot."
+    ],
+    "expert_verification": false
+  },
+  {
+    "crop": "Tomato",
+    "condition": "Tomato Bacterial Spot",
+    "description": "Bacterial spot on tomato is caused by Xanthomonas species. Causes small, dark, greasy spots on foliage and fruit scabs.",
+    "general_management": [
+      "Avoid overhead irrigation and handle plants only when completely dry.",
+      "Apply fixed copper bactericides early in the disease cycle."
+    ],
+    "prevention": [
+      "Use certified pathogen-free seeds and hot water treatment.",
+      "Maintain a 2-year rotation with non-solanaceous crops."
+    ],
+    "monitoring": [
+      "Scout weekly for circular water-soaked lesions on younger leaflets."
+    ],
+    "expert_verification": true
+  },
+  {
+    "crop": "Tomato",
+    "condition": "Tomato Leaf Mold",
+    "description": "Leaf mold is caused by Passalora fulva (syn. Cladosporium fulvum), thriving in humid greenhouse and high-tunnel environments.",
+    "general_management": [
+      "Increase air flow and ventilation to lower relative humidity below 85%.",
+      "Prune dense canopy and remove severely diseased lower leaves."
+    ],
+    "prevention": [
+      "Plant resistant cultivars with Cladosporium resistance genes (Cf genes).",
+      "Space plants generously to promote rapid foliar drying."
+    ],
+    "monitoring": [
+      "Inspect undersides of older leaves for olive-green to brown velvety patches."
+    ],
+    "expert_verification": true
+  },
+  {
+    "crop": "Tomato",
+    "condition": "Tomato Septoria Leaf Spot",
+    "description": "Septoria leaf spot is caused by the fungus Septoria lycopersici. Causes circular spots with gray centers and black fruiting bodies.",
+    "general_management": [
+      "Remove diseased bottom leaves promptly to slow upward progression.",
+      "Apply protective fungicides (chlorothalonil or copper) upon first symptom."
+    ],
+    "prevention": [
+      "Use straw or plastic mulch to block spore splashing from soil.",
+      "Control solanaceous weeds like horsenettle that harbor the fungus."
+    ],
+    "monitoring": [
+      "Examine lower leaves for 1/8-inch circular spots with tiny dark pycnidia."
+    ],
+    "expert_verification": true
+  },
+  {
+    "crop": "Tomato",
+    "condition": "Tomato Spider Mites Two Spotted Spider Mite",
+    "description": "Infestation by Tetranychus urticae causes yellow stippling, bronzing of foliage, and delicate webbing across leaf clusters.",
+    "general_management": [
+      "Spray foliage with insecticidal soap or horticultural neem oil.",
+      "Introduce predatory mites (e.g., Phytoseiulus persimilis) for biological control."
+    ],
+    "prevention": [
+      "Avoid excessive synthetic nitrogen fertilizers that boost mite reproduction.",
+      "Mist plants or overhead irrigate during prolonged hot, dry spells."
+    ],
+    "monitoring": [
+      "Check leaf undersides with a hand lens for tiny moving mites and webbing."
+    ],
+    "expert_verification": true
+  },
+  {
+    "crop": "Tomato",
+    "condition": "Tomato Target Spot",
+    "description": "Target spot is caused by the fungal pathogen Corynespora cassiicola, forming pinpoint lesions that expand into target-like brown rings.",
+    "general_management": [
+      "Prune inner foliage to accelerate canopy drying.",
+      "Apply targeted fungicides labeled for Corynespora."
+    ],
+    "prevention": [
+      "Strict sanitation: disk or bury infected plant residue after harvest.",
+      "Avoid planting adjacent to older infected cucurbit or solanaceous plantings."
+    ],
+    "monitoring": [
+      "Inspect mid-canopy leaves for brown lesions with yellow chlorotic halos."
+    ],
+    "expert_verification": true
+  },
+  {
+    "crop": "Tomato",
+    "condition": "Tomato Tomato Yellowleaf Curl Virus",
+    "description": "TYLCV is a devastating geminivirus transmitted by the sweetpotato whitefly (Bemisia tabaci), causing stunted growth and cupped leaves.",
+    "general_management": [
+      "Immediately rogue and incinerate symptomatic virus-infected plants.",
+      "Deploy reflective silver mulch and yellow sticky cards to deter whiteflies."
+    ],
+    "prevention": [
+      "Select TYLCV-resistant hybrids with Ty resistance genes.",
+      "Install fine insect netting (50-mesh) on nursery greenhouses."
+    ],
+    "monitoring": [
+      "Regularly scout shoot tips for upward leaf curling and interveinal chlorosis."
+    ],
+    "expert_verification": true
+  },
+  {
+    "crop": "Tomato",
+    "condition": "Tomato Tomato Mosaic Virus",
+    "description": "ToMV is a highly stable tobamovirus causing light and dark green mottled patterns, blistering, and distorted foliage.",
+    "general_management": [
+      "Disinfect pruning tools with 20% nonfat dry milk or 10% bleach solution.",
+      "Wash hands thoroughly before handling plants, especially after using tobacco."
+    ],
+    "prevention": [
+      "Plant certified virus-free seed or heat-treated seed.",
+      "Choose varieties bred with Tm-2 resistance alleles."
+    ],
+    "monitoring": [
+      "Scout for mosaic foliar patterns, fern-like distorted leaves, and stunted stems."
+    ],
+    "expert_verification": true
+  }
+]
+

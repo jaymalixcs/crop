@@ -1,0 +1,95 @@
+# ==========================================
+# Byte-compiled / Python Cache
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# ==========================================
+# Virtual Environments (backend & root)
+# ==========================================
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+backend/venv/
+
+# ==========================================
+# Datasets, Training Runs & Kaggle Artifacts
+# ==========================================
+kaggle_working/
+runs/
+*.zip
+*.tar.gz
+*.tgz
+
+# ==========================================
+# Databases & Local SQLite
+# ==========================================
+*.db
+*.sqlite
+*.sqlite3
+crop_health.db
+backend/crop_health.db
+
+# ==========================================
+# User Uploads / Runtime Images
+# ==========================================
+uploads/*
+!uploads/.gitkeep
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# ==========================================
+# Frontend (Node / Vite / Build Artifacts)
+# ==========================================
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+dist-ssr/
+*.local
+
+# ==========================================
+# Logs
+# ==========================================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ==========================================
+# Unit Tests & Coverage
+# ==========================================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ==========================================
+# Secrets & Environment Variables
+# ==========================================
+.env
+.env.local
+.env.*.local
+*.env
+!.env.example
+!frontend/.env.example
+
+# ==========================================
+# OS & IDE Files
+# ==========================================
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
+desktop.ini
